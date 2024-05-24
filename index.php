@@ -31,7 +31,6 @@
     <img src="https://image.tmdb.org/t/p/w500/ajnzOECvXpa7VcVx0RSlq39XgHe.jpg" alt="">
     <h1><?php
 
-
 ?></h1>
 <?php
 echo ($datos['title']);
